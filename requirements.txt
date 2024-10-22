@@ -1,0 +1,12 @@
+# requirements.txt
+langchain  # Use the latest version
+openai    # Use the latest version
+streamlit
+python-dotenv
+transformers
+torch
+opencv
+fpdf
+selenium
+beautifulsoup4
+webdriver-manager
