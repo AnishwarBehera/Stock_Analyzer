@@ -27,8 +27,8 @@ View past interactions with the AI to track and review questions and answers. Cl
 
 ### 7. Sample Financial Documents
 Download sample financial documents to test the app:
-- [Download Annual Report of Aaval Financiers Ltd](https://www.aavas.in/img/pdf/Annual_Report_for_the_Financial_Year_2023-24.pdf)
-- [Download Q1 Report of Aaval Financiers Ltd](https://www.aavas.in/uploads/pdf/financia-results-july-25-2024-853887582.pdf)
+- [Download Annual Report of Aavas Financiers Ltd](https://www.aavas.in/img/pdf/Annual_Report_for_the_Financial_Year_2023-24.pdf)
+- [Download Q1 Report of MapMyIndia](https://cdn-public.mappls.com/about-mappls/assets/investor_doc/d-2024-25/BM_Outcome_08_Nov_2024.pdf)
 - [Download Annual Report of Reliance](https://rilstaticasset.akamaized.net/sites/default/files/2024-08/RIL-Integrated-Annual-Report-2023-24.pdf)
 - [Download Quarterly Report of Reliance](https://rilstaticasset.akamaized.net/sites/default/files/2024-10/14102024-Media-Release-RIL-Q2-FY2024-25-Financial-and-Operational-Performance.pdf)
 
