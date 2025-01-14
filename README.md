@@ -34,7 +34,7 @@ Download sample financial documents to test the app:
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/quantum-finance.git
+   git clone https://github.com/your-username/Stock_Analyzer.git
 
 2. Navigate to the project directory:
    cd quantum-finance
