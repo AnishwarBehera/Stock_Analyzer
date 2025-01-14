@@ -1,0 +1,28 @@
+
+streamlit
+pandas
+langchain
+openai
+textblob
+selenium
+webdriver-manager
+google-generativeai
+requests
+tabula-py
+camelot-py[cv]
+#Tabel extraction
+# Install Poppler to use pdf2image. Instructions:
+# - macOS: brew install poppler
+# - Linux: sudo apt-get install poppler-utils
+# - Windows: Download from https://github.com/oschwartz10612/poppler-windows/releases/ and add to PATH
+pdf2image
+pytesseract
+pymupdf
+numpy
+beautifulsoup4
+opencv-python-headless
+python-dotenv
+faiss-cpu
+langchain_openai
+langchain_community
+pdfplumber
